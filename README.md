@@ -2,8 +2,8 @@
 
 Programming language : Python
 
-# Dataset
+### Dataset
 
 Dataset is famous 20 newsgroups dataset
-you can find the dataset freely [https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups]
+you can find the dataset freely [here](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups)
 
